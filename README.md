@@ -19,6 +19,7 @@ e)setup MongoDB Atlas
 **1.0 SETTING UP SERVER SIDE**
 **2.0 SETTING UP CLIENT SIDE**
 **3.0 INTEGRATING SERVER AND CLIENT SIDE**
+
 Follow the comphrensive processes of this development here;
 https://dev.to/deoluoyinlola/how-to-develop-mern-stack-app-4mke
 
