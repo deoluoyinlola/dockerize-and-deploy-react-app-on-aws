@@ -1,6 +1,6 @@
 # dockerize-and-deploy-react-app-on-aws
 
-This is follow up repo to the "developing MERN stack app - bukrate". Though, this was build with only Reactjs but the idea was to demonstrate how to dockerize and develop to AWS. Complete processes on my blog as the second part of the series, link to the blog;
+This is follow up repo to the "developing MERN stack app - bukrate". Though, this was build with only Reactjs but the idea was to demonstrate how to dockerize. Complete processes on my blog as the second part of the series, link to the blog;
 
 ![alt text](https://github.com/deoluoyinlola/docker-compose-mern-app/blob/main/image.png?raw=true)
 This repo contain complete development, dockerize and deployment process of a MERN app - a book rating app, bukrate.
