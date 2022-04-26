@@ -23,8 +23,8 @@ e)setup MongoDB Atlas
 Follow the comphrensive processes of this development here;
 https://dev.to/deoluoyinlola/how-to-develop-mern-stack-app-4mke
 
-# PART 2 - DOCKERIZE AND DEPLOYMENT OF REACT APP
-
+# PART 2 - DOCKERIZE REACT APP
+https://dev.to/deoluoyinlola/how-to-dockerize-reactjs-app-10p1
 # Run the code
 
 ```
